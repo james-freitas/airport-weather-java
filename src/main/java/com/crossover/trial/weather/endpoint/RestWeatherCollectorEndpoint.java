@@ -1,5 +1,7 @@
-package com.crossover.trial.weather;
+package com.crossover.trial.weather.endpoint;
 
+import com.crossover.trial.weather.*;
+import com.crossover.trial.weather.exception.WeatherException;
 import com.google.gson.Gson;
 
 import javax.ws.rs.Path;

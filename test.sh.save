@@ -1,0 +1,10 @@
+#!/bin/sh
+function hello {
+   echo "Hello!"
+}
+
+hello
+
+echo foo 
+
+
