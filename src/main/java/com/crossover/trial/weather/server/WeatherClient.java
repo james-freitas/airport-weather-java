@@ -1,4 +1,6 @@
-package com.crossover.trial.weather;
+package com.crossover.trial.weather.server;
+
+import com.crossover.trial.weather.DataPoint;
 
 import javax.ws.rs.client.Client;
 import javax.ws.rs.client.ClientBuilder;

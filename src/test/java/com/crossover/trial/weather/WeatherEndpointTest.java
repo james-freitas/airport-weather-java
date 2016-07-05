@@ -1,6 +1,7 @@
 package com.crossover.trial.weather;
 
 import com.crossover.trial.weather.endpoint.RestWeatherCollectorEndpoint;
+import com.crossover.trial.weather.endpoint.RestWeatherQueryEndpoint;
 import com.crossover.trial.weather.endpoint.WeatherCollectorEndpoint;
 import com.crossover.trial.weather.endpoint.WeatherQueryEndpoint;
 import com.google.gson.Gson;
